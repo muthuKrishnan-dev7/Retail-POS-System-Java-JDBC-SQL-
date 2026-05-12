@@ -31,7 +31,7 @@ Retail POS System is a console-based billing application developed using **Java*
 5. Run `MainApp.java`
 
 ## Demo Video
-(Add your YouTube link here)
+link : https://www.linkedin.com/posts/muthukrishnan514_java-postgresql-jdbc-ugcPost-7459913577651404801-NERs?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEs4988B9j4m1XImcKb9pXqxiUoWKICmYRU
 
 ## Author
 Muthu Krishnan R
